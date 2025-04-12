@@ -53,6 +53,7 @@ Antes de começar, certifique-se de ter instalado:
    ```
 
 5. Abra [http://localhost:3000](http://localhost:3000) no navegador para visualizar o projeto.
+5.1. Utilize o projeto  https://github.com/MarkusLima/Manager-tasks como back-end
 
 ## Scripts Disponíveis
 
@@ -142,6 +143,7 @@ Before starting, make sure you have installed:
    ```
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+5.1. Use the https://github.com/MarkusLima/Manager-tasks project as a backend
 
 ## Available Scripts
 
